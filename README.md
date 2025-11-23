@@ -82,36 +82,8 @@ Reference performance:
 
 Performance may vary depending on dataset, preprocessing, and training conditions.
 
----
 
-## 🚀 Possible Improvements
 
-To extend or strengthen the model:
-
-### Hyperparameter Tuning
-- Grid search on `C`, n-grams, class weights
-
-### Alternative Models
-- Logistic Regression  
-- Random Forest  
-- XGBoost  
-- Neural architectures such as LSTM or Transformers  
-
-### Better NLP Features
-- N-grams  
-- Character-level features  
-- Word embeddings  
-
-### Handle Class Imbalance
-- Oversampling / undersampling  
-- SMOTE  
-- Adjusted SVM class weights  
-
----
-
-## 📄 License
-
-Choose a license (MIT, Apache-2.0, GPL-3.0…) and include it as a `LICENSE` file.
 
 ---
 
